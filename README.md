@@ -7,6 +7,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariageovana82268@gmail.com)
 
 ![Geovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdev-13&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdev-13)](https://github.com/gdev-13/github-readme-stats)
 
 ### Tecnologias que utilizo
 
