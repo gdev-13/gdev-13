@@ -1,5 +1,5 @@
 
-## Olá! Eu sou Geovana Gonçalo 😊
+## Sobre mim 💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-geovana-gonçalo-de-oliveira-b7a21a258)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gdev-13)
