@@ -27,5 +27,6 @@
     <img align="center" height="30" width="40" alt="eclipse-icon"
     src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg">
     <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg">
+    <img align="center" height="30" wight="40" alt="unity" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
    </div><br>
     <h3 align="center">Sempre aprendendo, sempre crescendo. Vamos construir algo incrível juntos!</h3>
