@@ -9,7 +9,7 @@
 
 <div>
   <img src="https://github-readme-stats-rho-five-25.vercel.app/api?username=gdev-13&show_icons=true&theme=merko" style="height: 200px" />
-  <img src="https://github-readme-stats-rho-five-25.vercel.app/api/top-langs/?username=gdev-13&layout=compact&theme=merko" style="height: 200px; width: 420px" />
+  <img src="https://github-readme-stats-rho-five-25.vercel.app/api/top-langs/?username=gdev-13&layout=compact&theme=merko" style="height: 200px;" />
 </div>
 
 <div align="center"> 
