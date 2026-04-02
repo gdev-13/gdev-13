@@ -6,12 +6,14 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583986462127)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariageovana82268@gmail.com)
 
-![Geovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdev-13&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdev-13&layout=compact&theme=merko)
 
+<div>
+  <img src="https://github-readme-stats-rho-five-25.vercel.app/api?username=gdev-13&show_icons=true&theme=merko" style="height: 200px" />
+  <img src="https://github-readme-stats-rho-five-25.vercel.app/api/top-langs/?username=gdev-13&layout=compact&theme=merko" style="height: 200px; width: 420px" />
+</div>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
+<div align="center"> 
+  <div><br>
     <img align="left" height="250" alt="coding-time" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
     <h1 align="center">Tecnologias </h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
