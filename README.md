@@ -61,6 +61,7 @@ Gosto de transformar ideias em aplicações funcionais, organizadas e com boa ex
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" />
