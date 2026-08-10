@@ -85,9 +85,9 @@ Gosto de transformar ideias em aplicações funcionais, organizadas e com boa ex
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-rho-five-25.vercel.app/api?username=gdev-13&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d" />
+<img height="170" src="https://github-readme-stats-three-theta-70.vercel.app/api?username=gdev-13&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d" />
 
-<img height="170" src="https://github-readme-stats-rho-five-25.vercel.app/api/top-langs/?username=gdev-13&layout=compact&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=30363d" />
+<img height="170" src="https://github-readme-stats-three-theta-70.vercel.app/api/top-langs/?username=gdev-13&layout=compact&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=30363d" />
 
 <br><br>
 
