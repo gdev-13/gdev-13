@@ -91,7 +91,7 @@ Gosto de transformar ideias em aplicações funcionais, organizadas e com boa ex
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=gdev-13&background=000000&border=30363D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+<img src="https://streak-stats.demolab.com/?user=gdev-13&background=000000&border=30363D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 
 <br><br>
 
