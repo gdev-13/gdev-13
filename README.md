@@ -95,7 +95,7 @@ Gosto de transformar ideias em aplicações funcionais, organizadas e com boa ex
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gdev-13&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&border_color=30363d&hide_title=true" />
+<img src="https://github-readme-activity-graph-one-pi.vercel.app/graph?username=gdev-13&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&border_color=30363d&hide_title=true" width="100%" />
 
 </div>
 
